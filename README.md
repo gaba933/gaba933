@@ -64,6 +64,13 @@ Tenho maior foco em **.NET, Java e APIs REST**, além de experiência prática c
   />
 </p>
 
+## 📌 Projetos em destaque
+<p>
+    <a>
+        href="https://github.com/gaba933/Estrutura-de-dados-Python "
+    </a>
+</p>
+
 <br/>
 <br/>
 <br/>
