@@ -28,7 +28,7 @@ Tenho maior foco em **.NET, Java e APIs REST**, além de experiência prática c
         <img 
             alt="GitHub followers" 
             title="Seguidores GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/gaba933?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
