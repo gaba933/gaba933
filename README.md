@@ -37,13 +37,10 @@ Tenho maior foco em **.NET, Java e APIs REST**, além de experiência prática c
 
 ### 🚀 Tecnologias
 
-<img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 <br/>
@@ -57,13 +54,13 @@ Tenho maior foco em **.NET, Java e APIs REST**, além de experiência prática c
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=gaba933&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaba933&theme=tokyonight&layout=compact&langs_count=8" 
   />
 </p>
 
@@ -76,10 +73,3 @@ Tenho maior foco em **.NET, Java e APIs REST**, além de experiência prática c
 
 ---
 
-### 🎯 Atualmente estudando
-
-- Arquitetura de Software  
-- APIs escaláveis com .NET  
-- Microsserviços  
-- Cloud com Azure  
-- Boas práticas de Clean Code  
